@@ -1,0 +1,123 @@
+
+
+.container {
+    width: 550px;
+    height: 719px;    
+    margin-left: auto;
+    margin-right: auto;        
+    border-radius: 10px;
+}
+
+.header {    
+    margin-top: 126px;
+    background: #6943FF;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.input-and-button {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {    
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: #1F2937;
+    width: 550px;
+    height: 444px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+#input-value {
+    text-align: center;
+    align-items: center;
+    background: #6943FF;
+    border: 1px solid white;
+    width: 117px;
+    height: 83px; 
+    margin-left: 217px;
+    margin-right: 216px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    color: #FFFFFF;
+}
+
+#btn-convert {
+    width: 117px;
+    height: 42px;    
+    margin-left: 217px;
+    border-radius: 5px;
+    border: none;
+    color: #3D3D3D;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+
+.length {
+    background: #273549;
+    width: 500px;
+    height: 187px;
+    margin-top: 36px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 23.43px;
+    color: #FFFFFF;
+}
+
+.volume {
+    background: #273549;
+    width: 500px;
+    height: 187px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 23.43px;
+    color: #FFFFFF;
+}
+
+.mass {
+    background: #273549;
+    width: 500px;
+    height: 187px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 36px;
+    color: #FFFFFF;
+} 
+
+.units {
+    width: 346px;
+    height: 59px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 31px;
+    margin-bottom: 18.57px;
+}
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0;
+}
